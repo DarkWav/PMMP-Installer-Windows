@@ -1,3 +1,3 @@
 # PMMP-Installer-Windows
-## <br>[[Get it now]](https://github.com/DarkWav/PMMP-Installer-Windows/releases/latest)
+## [[Get it now]](https://github.com/DarkWav/PMMP-Installer-Windows/releases/latest)<br>
 A PMMP installer for windows based on CMD and POWERSHELL
