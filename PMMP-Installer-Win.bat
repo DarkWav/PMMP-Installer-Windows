@@ -58,6 +58,6 @@ DEL 5.ps1
 DEL 6.ps1
 DEL LICENSE
 DEL README.md
-DEL texts.txt
+DEL pocketmine.ico
 start "" "start.cmd"
 DEL PMMP-Installer-Win.bat
