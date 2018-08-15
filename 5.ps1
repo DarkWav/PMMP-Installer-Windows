@@ -1,4 +1,4 @@
-$url = "https://ci.appveyor.com/api/buildjobs/ev2e28jim23o0eg8/artifacts/php-7.2.8-vc15-x64.zip"
+$url = "https://ci.appveyor.com/api/buildjobs/o35q0fro68d1ie2k/artifacts/php-7.2.8-vc15-x64.zip"
 $output = "$PSScriptRoot\PHP.zip"
 $start_time = Get-Date
 
